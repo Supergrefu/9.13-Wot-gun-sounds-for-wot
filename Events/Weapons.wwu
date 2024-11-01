@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{E811023D-8930-4266-8283-3B46EAFCF06B}" SchemaVersion="119">
+	<Events>
+		<WorkUnit Name="Weapons" ID="{E811023D-8930-4266-8283-3B46EAFCF06B}" PersistMode="Standalone">
+			<Comment>Shots fired</Comment>
+			<ChildrenList>
+				<Event Name="wpn_meduim_PC_mod" ID="{82A24B75-9272-4478-9FFC-2BCEEC62A07D}">
+					<Comment>Medium caliber (50–75 mm) PC</Comment>
+					<ChildrenList>
+						<Action Name="" ID="{AF90253A-2105-4397-994C-83414E5C2E62}" ShortID="596469508">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Wpn_Medium" ID="{5FD52E6E-894C-4CE9-B953-B1A53B6F1689}" WorkUnitID="{65190E54-2D13-4236-B92A-68EECE61A842}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="wpn_automatic_NPC_mod" ID="{2CF34E44-E937-4234-B906-F7B4F1F8C0F7}">
+					<Comment>Automaticl caliber (12–25 mm) NPC</Comment>
+					<ChildrenList>
+						<Action Name="" ID="{77A36F06-CAF5-461F-A5CE-139847918462}" ShortID="837661550">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="kk91_wpn_old_Automatic_3rdView_1" ID="{82FC6769-EA25-4DF0-A33E-96CB38B1A9D7}" WorkUnitID="{65190E54-2D13-4236-B92A-68EECE61A842}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="wpn_large_PC_mod" ID="{2702412F-E4F1-4579-97AE-739FF3FC427F}">
+					<Comment>Large caliber (115–139 mm) PC</Comment>
+					<ChildrenList>
+						<Action Name="" ID="{6ABAE7DC-688F-4CCB-9CE3-D5EB08F7169A}" ShortID="2126514">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Wpn_Large" ID="{4241326E-B71A-40DE-92E0-92BD63C820DA}" WorkUnitID="{65190E54-2D13-4236-B92A-68EECE61A842}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="wpn_main_PC_mod" ID="{D9E960DF-A5D2-4339-82BD-2362EAE49C2D}">
+					<Comment>Main caliber (85–114 mm) PC</Comment>
+					<ChildrenList>
+						<Action Name="" ID="{9D9F0BDC-0F16-4F0D-A85C-F2AEC7B41770}" ShortID="249656662">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Wpn_Main" ID="{6162F0E8-AE5D-44A7-8357-C5AAAC3EFC0A}" WorkUnitID="{65190E54-2D13-4236-B92A-68EECE61A842}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="wpn_meduim_NPC_mod" ID="{E4EC0D72-BB76-4536-99B5-D1B4957F90EF}">
+					<Comment>Medium caliber (50–75 mm) NPC</Comment>
+					<ChildrenList>
+						<Action Name="" ID="{3421D8E1-3322-4EE7-9DFD-D490F2A8CFB9}" ShortID="480492628">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="kk91_wpn_old_Medium_3rdView_1" ID="{014393A9-2E69-4EB7-8F81-2A9DCAF99149}" WorkUnitID="{65190E54-2D13-4236-B92A-68EECE61A842}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="wpn_large_NPC_mod" ID="{5517230D-232A-46DE-B0E5-7305DEC6743A}">
+					<Comment>Large caliber (115–139 mm) NPC</Comment>
+					<ChildrenList>
+						<Action Name="" ID="{1604C7AE-39E3-4FDF-BA18-D840A2082A97}" ShortID="305358181">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="kk91_wpn_old_Large_3rdView_1" ID="{F961A56E-350E-4A7E-AEFD-5085C92AD78C}" WorkUnitID="{65190E54-2D13-4236-B92A-68EECE61A842}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="wpn_main_NPC_mod" ID="{34F0B5E6-4275-4346-9784-40D4568C4DC1}">
+					<Comment>Main caliber (85–114 mm) NPC</Comment>
+					<ChildrenList>
+						<Action Name="" ID="{FEFB475E-7FCA-4514-95FB-17191DB460D4}" ShortID="373248238">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="kk91_wpn_old_Main_3rdView_1" ID="{1C34E5CF-336E-4DCA-AD7B-3BF91BDA0472}" WorkUnitID="{65190E54-2D13-4236-B92A-68EECE61A842}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="wpn_small_NPC_mod" ID="{F6F4DC18-2492-4A1E-B7B9-61C9F85B74BA}">
+					<Comment>Small caliber (20–45 mm) NPC</Comment>
+					<ChildrenList>
+						<Action Name="" ID="{A1E1291B-B642-485A-A03C-AD27F76304BA}" ShortID="749099318">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="kk91_wpn_old_Small_3rdView_1" ID="{08F25126-4C87-4053-809C-DD0A5D206657}" WorkUnitID="{65190E54-2D13-4236-B92A-68EECE61A842}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="wpn_huge_PC_mod" ID="{366FE8CB-4DDF-4F35-B9EB-DFE85C23AA1F}">
+					<Comment>Huge caliber (140–170 mm) PC</Comment>
+					<ChildrenList>
+						<Action Name="" ID="{7B4BE62D-85A3-4BA4-99E0-445AB767BDBA}" ShortID="277220165">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Wpn_Huge" ID="{7B0C5A24-33EB-4AA9-BE43-AC747B9D2580}" WorkUnitID="{65190E54-2D13-4236-B92A-68EECE61A842}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="wpn_small_PC_mod" ID="{080EB964-60E4-44D6-8111-FF2C685485FE}">
+					<Comment>Small caliber (20–45 mm) PC</Comment>
+					<ChildrenList>
+						<Action Name="" ID="{EBBBE16D-59F5-4406-BA35-C18C844965DC}" ShortID="91195155">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Wpn_Small" ID="{5DE3293D-08A9-4809-BB44-27507727CB8D}" WorkUnitID="{65190E54-2D13-4236-B92A-68EECE61A842}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="wpn_huge_NPC_mod" ID="{81539F8A-C35A-444A-B57D-9F168A43EBD7}">
+					<Comment>Huge caliber (140–170 mm) NPC</Comment>
+					<ChildrenList>
+						<Action Name="" ID="{346EE0AA-0B05-4DBD-84D4-1A4472D4C387}" ShortID="1004909665">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="kk91_wpn_old_Huge_3rdView_1" ID="{0E40A32F-B890-47DD-A1C0-650B44D0E146}" WorkUnitID="{65190E54-2D13-4236-B92A-68EECE61A842}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="wpn_automatic_PC_mod" ID="{CA4EF258-E160-4FA3-A3DC-1EE47006DCBA}">
+					<Comment>Automatic caliber (12–25 mm) PC</Comment>
+					<ChildrenList>
+						<Action Name="" ID="{B115C6E0-9D6A-4F48-A58A-3B5BF335FF40}" ShortID="904088404">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Wpn_Automatic" ID="{F28CFD88-3BAD-44EF-A7D0-E3A142E2FCB8}" WorkUnitID="{65190E54-2D13-4236-B92A-68EECE61A842}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="wpn_large_extra_PC_mod" ID="{64C6B0AE-44EA-46C2-BDFC-E452410BBFA7}">
+					<Comment>Large caliber (115–139 mm) PC</Comment>
+				</Event>
+				<Event Name="wpn_main_extra_PC_mod" ID="{BD901E3E-1B0C-483E-B531-7573E1CA2696}">
+					<Comment>Main caliber (85–114 mm) PC</Comment>
+				</Event>
+				<Event Name="wpn_large_extra_NPC_mod" ID="{A0F658F0-7858-41DE-BAD2-EA7E3FE1E322}">
+					<Comment>Large caliber (115–139 mm) NPC</Comment>
+				</Event>
+				<Event Name="wpn_main_extra_NPC_mod" ID="{F29581B2-0A16-4E83-B299-AC47CDF1DB61}">
+					<Comment>Main caliber (85–114 mm) NPC</Comment>
+				</Event>
+				<Event Name="wpn_large_dual_PC" ID="{5DEC8C65-EF5D-4AC1-AD0E-A7D6441F77DD}"/>
+				<Event Name="wpn_large_dual_NPC" ID="{E272C7DB-B434-4436-BB52-30EB80931222}"/>
+				<Event Name="wpn_main_dual_NPC" ID="{F2E64530-49F0-4135-B0C8-D2B4821766FE}">
+					<Comment>Main caliber (85–114 mm) NPC</Comment>
+				</Event>
+				<Event Name="wpn_main_extra_dual_NPC" ID="{E0AEE796-667D-4D3E-994F-A8038877572F}">
+					<Comment>Main caliber (85–114 mm) NPC</Comment>
+				</Event>
+				<Event Name="wpn_main_dual_PC" ID="{ED370A0A-1152-4431-B056-5BD715D32217}">
+					<Comment>Main caliber (85–114 mm) PC</Comment>
+				</Event>
+				<Event Name="wpn_main_extra_dual_PC" ID="{6E54AEDF-0040-43F7-A64D-C32114344EBE}">
+					<Comment>Main caliber (85–114 mm) PC</Comment>
+				</Event>
+				<Event Name="wpn_artillery_distant_threat" ID="{FC387B7F-2E7C-493F-815B-26A22AB91AFA}">
+					<Comment>Event - A distant layer of the enemy artillery shot. Event is triggered for tanks that will be within 200 meters of the center of the crosshair sight of the enemy artillery</Comment>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

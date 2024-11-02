@@ -5,6 +5,7 @@
 			<ChildrenList>
 				<SoundBank Name="mod" ID="{99374FA3-564C-45EC-B10C-2C960282AECA}">
 					<ObjectInclusionList>
+						<ObjectRef Name="wpn_large_extra_NPC_mod" ID="{A0F658F0-7858-41DE-BAD2-EA7E3FE1E322}" WorkUnitID="{E811023D-8930-4266-8283-3B46EAFCF06B}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="wpn_automatic_NPC_mod" ID="{2CF34E44-E937-4234-B906-F7B4F1F8C0F7}" WorkUnitID="{E811023D-8930-4266-8283-3B46EAFCF06B}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="wpn_main_PC_mod" ID="{D9E960DF-A5D2-4339-82BD-2362EAE49C2D}" WorkUnitID="{E811023D-8930-4266-8283-3B46EAFCF06B}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="wpn_main_NPC_mod" ID="{34F0B5E6-4275-4346-9784-40D4568C4DC1}" WorkUnitID="{E811023D-8930-4266-8283-3B46EAFCF06B}" Origin="Manual" Filter="7"/>
@@ -13,8 +14,11 @@
 						<ObjectRef Name="wpn_small_PC_mod" ID="{080EB964-60E4-44D6-8111-FF2C685485FE}" WorkUnitID="{E811023D-8930-4266-8283-3B46EAFCF06B}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="wpn_meduim_NPC_mod" ID="{E4EC0D72-BB76-4536-99B5-D1B4957F90EF}" WorkUnitID="{E811023D-8930-4266-8283-3B46EAFCF06B}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="wpn_large_PC_mod" ID="{2702412F-E4F1-4579-97AE-739FF3FC427F}" WorkUnitID="{E811023D-8930-4266-8283-3B46EAFCF06B}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="wpn_large_extra_PC_mod" ID="{64C6B0AE-44EA-46C2-BDFC-E452410BBFA7}" WorkUnitID="{E811023D-8930-4266-8283-3B46EAFCF06B}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="wpn_large_NPC_mod" ID="{5517230D-232A-46DE-B0E5-7305DEC6743A}" WorkUnitID="{E811023D-8930-4266-8283-3B46EAFCF06B}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="wpn_main_extra_PC_mod" ID="{BD901E3E-1B0C-483E-B531-7573E1CA2696}" WorkUnitID="{E811023D-8930-4266-8283-3B46EAFCF06B}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="wpn_small_NPC_mod" ID="{F6F4DC18-2492-4A1E-B7B9-61C9F85B74BA}" WorkUnitID="{E811023D-8930-4266-8283-3B46EAFCF06B}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="wpn_main_extra_NPC_mod" ID="{F29581B2-0A16-4E83-B299-AC47CDF1DB61}" WorkUnitID="{E811023D-8930-4266-8283-3B46EAFCF06B}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="wpn_huge_PC_mod" ID="{366FE8CB-4DDF-4F35-B9EB-DFE85C23AA1F}" WorkUnitID="{E811023D-8930-4266-8283-3B46EAFCF06B}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="wpn_automatic_PC_mod" ID="{CA4EF258-E160-4FA3-A3DC-1EE47006DCBA}" WorkUnitID="{E811023D-8930-4266-8283-3B46EAFCF06B}" Origin="Manual" Filter="7"/>
 					</ObjectInclusionList>

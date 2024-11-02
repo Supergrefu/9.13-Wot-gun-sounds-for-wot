@@ -125,7 +125,7 @@
 	<ValidationCacheItem File="D:\Archivos\WotModding\WoT.WWise_1.26.0_v2\wwise_project\en\Attenuations\Default Work Unit.wwu" DateLow="1727777437" DateHigh="0"/>
 	<ValidationCacheItem File="D:\Archivos\WotModding\WoT.WWise_1.26.0_v2\wwise_project\en\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1730481671" DateHigh="0"/>
 	<ValidationCacheItem File="D:\Archivos\WotModding\9.13-Wot-gun-sounds-for-wot-1.26-\Wwise_2.0_mixing.wproj" DateLow="1727777437" DateHigh="0"/>
-	<ValidationCacheItem File="D:\Archivos\WotModding\9.13-Wot-gun-sounds-for-wot-1.26-\Wwise_2.0_mixing.Supergrefu.wsettings" DateLow="1730487584" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Archivos\WotModding\9.13-Wot-gun-sounds-for-wot-1.26-\Wwise_2.0_mixing.Supergrefu.wsettings" DateLow="1730550448" DateHigh="0"/>
 	<ValidationCacheItem File="D:\Archivos\WotModding\9.13-Wot-gun-sounds-for-wot-1.26-\Virtual Acoustics\Default Work Unit.wwu" DateLow="1727777437" DateHigh="0"/>
 	<ValidationCacheItem File="D:\Archivos\WotModding\9.13-Wot-gun-sounds-for-wot-1.26-\Triggers\Default Work Unit.wwu" DateLow="1727778006" DateHigh="0"/>
 	<ValidationCacheItem File="D:\Archivos\WotModding\9.13-Wot-gun-sounds-for-wot-1.26-\Switches\Weapons.wwu" DateLow="1727777437" DateHigh="0"/>
@@ -140,7 +140,7 @@
 	<ValidationCacheItem File="D:\Archivos\WotModding\9.13-Wot-gun-sounds-for-wot-1.26-\Switches\Gun_Reload.wwu" DateLow="1727778006" DateHigh="0"/>
 	<ValidationCacheItem File="D:\Archivos\WotModding\9.13-Wot-gun-sounds-for-wot-1.26-\Switches\Default Work Unit.wwu" DateLow="1727777437" DateHigh="0"/>
 	<ValidationCacheItem File="D:\Archivos\WotModding\9.13-Wot-gun-sounds-for-wot-1.26-\Switches\Damage.wwu" DateLow="1727777437" DateHigh="0"/>
-	<ValidationCacheItem File="D:\Archivos\WotModding\9.13-Wot-gun-sounds-for-wot-1.26-\Switches\Common.wwu" DateLow="1727778006" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Archivos\WotModding\9.13-Wot-gun-sounds-for-wot-1.26-\Switches\Common.wwu" DateLow="1730550448" DateHigh="0"/>
 	<ValidationCacheItem File="D:\Archivos\WotModding\9.13-Wot-gun-sounds-for-wot-1.26-\Switches\Combat_atmosphere.wwu" DateLow="1727777437" DateHigh="0"/>
 	<ValidationCacheItem File="D:\Archivos\WotModding\9.13-Wot-gun-sounds-for-wot-1.26-\States\Modules.wwu" DateLow="1727778006" DateHigh="0"/>
 	<ValidationCacheItem File="D:\Archivos\WotModding\9.13-Wot-gun-sounds-for-wot-1.26-\States\Interactive_music.wwu" DateLow="1727778006" DateHigh="0"/>
@@ -148,7 +148,7 @@
 	<ValidationCacheItem File="D:\Archivos\WotModding\9.13-Wot-gun-sounds-for-wot-1.26-\States\Default Work Unit.wwu" DateLow="1727778006" DateHigh="0"/>
 	<ValidationCacheItem File="D:\Archivos\WotModding\9.13-Wot-gun-sounds-for-wot-1.26-\States\Common.wwu" DateLow="1727778006" DateHigh="0"/>
 	<ValidationCacheItem File="D:\Archivos\WotModding\9.13-Wot-gun-sounds-for-wot-1.26-\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1727777436" DateHigh="0"/>
-	<ValidationCacheItem File="D:\Archivos\WotModding\9.13-Wot-gun-sounds-for-wot-1.26-\SoundBanks\Default Work Unit.wwu" DateLow="1730481671" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Archivos\WotModding\9.13-Wot-gun-sounds-for-wot-1.26-\SoundBanks\Default Work Unit.wwu" DateLow="1730550448" DateHigh="0"/>
 	<ValidationCacheItem File="D:\Archivos\WotModding\9.13-Wot-gun-sounds-for-wot-1.26-\Queries\Default Work Unit.wwu" DateLow="1727777436" DateHigh="0"/>
 	<ValidationCacheItem File="D:\Archivos\WotModding\9.13-Wot-gun-sounds-for-wot-1.26-\Presets\Default Work Unit.wwu" DateLow="1727777436" DateHigh="0"/>
 	<ValidationCacheItem File="D:\Archivos\WotModding\9.13-Wot-gun-sounds-for-wot-1.26-\Modulators\Weapons.wwu" DateLow="1727777439" DateHigh="0"/>
@@ -189,7 +189,7 @@
 	<ValidationCacheItem File="D:\Archivos\WotModding\9.13-Wot-gun-sounds-for-wot-1.26-\Game Parameters\Common.wwu" DateLow="1727778006" DateHigh="0"/>
 	<ValidationCacheItem File="D:\Archivos\WotModding\9.13-Wot-gun-sounds-for-wot-1.26-\Game Parameters\Ambient.wwu" DateLow="1727778006" DateHigh="0"/>
 	<ValidationCacheItem File="D:\Archivos\WotModding\9.13-Wot-gun-sounds-for-wot-1.26-\Events\Wheel_vehicle.wwu" DateLow="1727777438" DateHigh="0"/>
-	<ValidationCacheItem File="D:\Archivos\WotModding\9.13-Wot-gun-sounds-for-wot-1.26-\Events\Weapons.wwu" DateLow="1730481671" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Archivos\WotModding\9.13-Wot-gun-sounds-for-wot-1.26-\Events\Weapons.wwu" DateLow="1730550448" DateHigh="0"/>
 	<ValidationCacheItem File="D:\Archivos\WotModding\9.13-Wot-gun-sounds-for-wot-1.26-\Events\Voiceover_old.wwu" DateLow="1727778006" DateHigh="0"/>
 	<ValidationCacheItem File="D:\Archivos\WotModding\9.13-Wot-gun-sounds-for-wot-1.26-\Events\Voiceover_Frontline.wwu" DateLow="1727777438" DateHigh="0"/>
 	<ValidationCacheItem File="D:\Archivos\WotModding\9.13-Wot-gun-sounds-for-wot-1.26-\Events\Utilite_events.wwu" DateLow="1727778006" DateHigh="0"/>
@@ -247,7 +247,7 @@
 	<ValidationCacheItem File="D:\Archivos\WotModding\9.13-Wot-gun-sounds-for-wot-1.26-\Attenuations\GUI.wwu" DateLow="1727777437" DateHigh="0"/>
 	<ValidationCacheItem File="D:\Archivos\WotModding\9.13-Wot-gun-sounds-for-wot-1.26-\Attenuations\Explosions.wwu" DateLow="1727777437" DateHigh="0"/>
 	<ValidationCacheItem File="D:\Archivos\WotModding\9.13-Wot-gun-sounds-for-wot-1.26-\Attenuations\Default Work Unit.wwu" DateLow="1727777437" DateHigh="0"/>
-	<ValidationCacheItem File="D:\Archivos\WotModding\9.13-Wot-gun-sounds-for-wot-1.26-\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1730487121" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Archivos\WotModding\9.13-Wot-gun-sounds-for-wot-1.26-\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1730550448" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Users\Supergrefu\Desktop\WoT.WWise_1.26.0_v2\wwise_project\en\Wwise_2.0_mixing.wproj" DateLow="1727777437" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Users\Supergrefu\Desktop\WoT.WWise_1.26.0_v2\wwise_project\en\Virtual Acoustics\Default Work Unit.wwu" DateLow="1727777437" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Users\Supergrefu\Desktop\WoT.WWise_1.26.0_v2\wwise_project\en\Triggers\Default Work Unit.wwu" DateLow="1727778006" DateHigh="0"/>

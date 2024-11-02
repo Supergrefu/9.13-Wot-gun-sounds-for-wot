@@ -13,7 +13,7 @@
 							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Target">
-									<ObjectRef Name="Wpn_Medium" ID="{5FD52E6E-894C-4CE9-B953-B1A53B6F1689}" WorkUnitID="{65190E54-2D13-4236-B92A-68EECE61A842}"/>
+									<ObjectRef Name="PC_Wpn_Medium" ID="{FD09B8F6-05FD-4E96-92A7-C5E34FF77A10}" WorkUnitID="{65190E54-2D13-4236-B92A-68EECE61A842}"/>
 								</Reference>
 							</ReferenceList>
 						</Action>
@@ -43,7 +43,7 @@
 							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Target">
-									<ObjectRef Name="Wpn_Large" ID="{4241326E-B71A-40DE-92E0-92BD63C820DA}" WorkUnitID="{65190E54-2D13-4236-B92A-68EECE61A842}"/>
+									<ObjectRef Name="PC_Wpn_Large" ID="{6DFA3449-182F-41A7-A596-D69D27AA0017}" WorkUnitID="{65190E54-2D13-4236-B92A-68EECE61A842}"/>
 								</Reference>
 							</ReferenceList>
 						</Action>
@@ -58,7 +58,7 @@
 							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Target">
-									<ObjectRef Name="Wpn_Main" ID="{6162F0E8-AE5D-44A7-8357-C5AAAC3EFC0A}" WorkUnitID="{65190E54-2D13-4236-B92A-68EECE61A842}"/>
+									<ObjectRef Name="PC_Wpn_Main" ID="{DF9864BD-8C5F-403A-831C-FF1161236506}" WorkUnitID="{65190E54-2D13-4236-B92A-68EECE61A842}"/>
 								</Reference>
 							</ReferenceList>
 						</Action>
@@ -133,7 +133,7 @@
 							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Target">
-									<ObjectRef Name="Wpn_Huge" ID="{7B0C5A24-33EB-4AA9-BE43-AC747B9D2580}" WorkUnitID="{65190E54-2D13-4236-B92A-68EECE61A842}"/>
+									<ObjectRef Name="PC_Wpn_Huge" ID="{17F753FC-FF66-4468-8482-E10E2F005644}" WorkUnitID="{65190E54-2D13-4236-B92A-68EECE61A842}"/>
 								</Reference>
 							</ReferenceList>
 						</Action>
@@ -148,7 +148,7 @@
 							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Target">
-									<ObjectRef Name="Wpn_Small" ID="{5DE3293D-08A9-4809-BB44-27507727CB8D}" WorkUnitID="{65190E54-2D13-4236-B92A-68EECE61A842}"/>
+									<ObjectRef Name="PC_Wpn_Small" ID="{4CA2BC63-BC7E-488F-8E61-99BC7021B7C0}" WorkUnitID="{65190E54-2D13-4236-B92A-68EECE61A842}"/>
 								</Reference>
 							</ReferenceList>
 						</Action>
@@ -178,7 +178,7 @@
 							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Target">
-									<ObjectRef Name="Wpn_Automatic" ID="{F28CFD88-3BAD-44EF-A7D0-E3A142E2FCB8}" WorkUnitID="{65190E54-2D13-4236-B92A-68EECE61A842}"/>
+									<ObjectRef Name="PC_Wpn_Automatic" ID="{85EE0CA9-F14D-41E8-8E39-279A2D872A33}" WorkUnitID="{65190E54-2D13-4236-B92A-68EECE61A842}"/>
 								</Reference>
 							</ReferenceList>
 						</Action>
@@ -186,15 +186,63 @@
 				</Event>
 				<Event Name="wpn_large_extra_PC_mod" ID="{64C6B0AE-44EA-46C2-BDFC-E452410BBFA7}">
 					<Comment>Large caliber (115–139 mm) PC</Comment>
+					<ChildrenList>
+						<Action Name="" ID="{EC339D87-B134-4A53-BCD6-0B527497F2B7}" ShortID="340018365">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="PC_Wpn_Large" ID="{6DFA3449-182F-41A7-A596-D69D27AA0017}" WorkUnitID="{65190E54-2D13-4236-B92A-68EECE61A842}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
 				</Event>
 				<Event Name="wpn_main_extra_PC_mod" ID="{BD901E3E-1B0C-483E-B531-7573E1CA2696}">
 					<Comment>Main caliber (85–114 mm) PC</Comment>
+					<ChildrenList>
+						<Action Name="" ID="{78406585-565C-47B0-A423-4A8938F4F564}" ShortID="481117554">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="PC_Wpn_Main" ID="{DF9864BD-8C5F-403A-831C-FF1161236506}" WorkUnitID="{65190E54-2D13-4236-B92A-68EECE61A842}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
 				</Event>
 				<Event Name="wpn_large_extra_NPC_mod" ID="{A0F658F0-7858-41DE-BAD2-EA7E3FE1E322}">
 					<Comment>Large caliber (115–139 mm) NPC</Comment>
+					<ChildrenList>
+						<Action Name="" ID="{2C738984-856F-40F0-AEB1-79CA01080D30}" ShortID="7685315">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="kk91_wpn_old_Large_3rdView_1" ID="{F961A56E-350E-4A7E-AEFD-5085C92AD78C}" WorkUnitID="{65190E54-2D13-4236-B92A-68EECE61A842}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
 				</Event>
 				<Event Name="wpn_main_extra_NPC_mod" ID="{F29581B2-0A16-4E83-B299-AC47CDF1DB61}">
 					<Comment>Main caliber (85–114 mm) NPC</Comment>
+					<ChildrenList>
+						<Action Name="" ID="{B62C0ACF-5616-4BF6-8ACF-195F80504DAE}" ShortID="940518607">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="kk91_wpn_old_Main_3rdView_1" ID="{1C34E5CF-336E-4DCA-AD7B-3BF91BDA0472}" WorkUnitID="{65190E54-2D13-4236-B92A-68EECE61A842}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
 				</Event>
 				<Event Name="wpn_large_dual_PC" ID="{5DEC8C65-EF5D-4AC1-AD0E-A7D6441F77DD}"/>
 				<Event Name="wpn_large_dual_NPC" ID="{E272C7DB-B434-4436-BB52-30EB80931222}"/>

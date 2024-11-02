@@ -12,10 +12,10 @@
 			<ChildrenList>
 				<Sound Name="kk91_wpn_old_Automatic_3rdView_1" ID="{82FC6769-EA25-4DF0-A33E-96CB38B1A9D7}" ShortID="894837404">
 					<PropertyList>
-						<Property Name="3DSpatialization" Type="int16" Value="2"/>
+						<Property Name="3DSpatialization" Type="int16" Value="1"/>
 						<Property Name="Volume" Type="Real64">
 							<ValueList>
-								<Value>-10</Value>
+								<Value>-5</Value>
 							</ValueList>
 						</Property>
 					</PropertyList>
@@ -88,7 +88,7 @@
 				</Sound>
 				<Sound Name="kk91_wpn_old_Huge_3rdView_1" ID="{0E40A32F-B890-47DD-A1C0-650B44D0E146}" ShortID="689506904">
 					<PropertyList>
-						<Property Name="3DSpatialization" Type="int16" Value="2"/>
+						<Property Name="3DSpatialization" Type="int16" Value="1"/>
 						<Property Name="Volume" Type="Real64">
 							<ValueList>
 								<Value>3</Value>
@@ -164,7 +164,7 @@
 				</Sound>
 				<Sound Name="kk91_wpn_old_Large_3rdView_1" ID="{F961A56E-350E-4A7E-AEFD-5085C92AD78C}" ShortID="1062060235">
 					<PropertyList>
-						<Property Name="3DSpatialization" Type="int16" Value="2"/>
+						<Property Name="3DSpatialization" Type="int16" Value="1"/>
 						<Property Name="Volume" Type="Real64">
 							<ValueList>
 								<Value>-10</Value>
@@ -240,7 +240,7 @@
 				</Sound>
 				<Sound Name="kk91_wpn_old_Main_3rdView_1" ID="{1C34E5CF-336E-4DCA-AD7B-3BF91BDA0472}" ShortID="127828267">
 					<PropertyList>
-						<Property Name="3DSpatialization" Type="int16" Value="2"/>
+						<Property Name="3DSpatialization" Type="int16" Value="1"/>
 						<Property Name="Volume" Type="Real64">
 							<ValueList>
 								<Value>-5</Value>
@@ -317,10 +317,10 @@
 				</Sound>
 				<Sound Name="kk91_wpn_old_Medium_3rdView_1" ID="{014393A9-2E69-4EB7-8F81-2A9DCAF99149}" ShortID="303426099">
 					<PropertyList>
-						<Property Name="3DSpatialization" Type="int16" Value="2"/>
+						<Property Name="3DSpatialization" Type="int16" Value="1"/>
 						<Property Name="Volume" Type="Real64">
 							<ValueList>
-								<Value>-15</Value>
+								<Value>-5</Value>
 							</ValueList>
 						</Property>
 					</PropertyList>
@@ -393,10 +393,10 @@
 				</Sound>
 				<Sound Name="kk91_wpn_old_Small_3rdView_1" ID="{08F25126-4C87-4053-809C-DD0A5D206657}" ShortID="963590809">
 					<PropertyList>
-						<Property Name="3DSpatialization" Type="int16" Value="2"/>
+						<Property Name="3DSpatialization" Type="int16" Value="1"/>
 						<Property Name="Volume" Type="Real64">
 							<ValueList>
-								<Value>-15</Value>
+								<Value>-5</Value>
 							</ValueList>
 						</Property>
 					</PropertyList>
@@ -469,7 +469,7 @@
 				</Sound>
 				<SwitchContainer Name="PC_Wpn_Huge" ID="{17F753FC-FF66-4468-8482-E10E2F005644}" ShortID="138675719">
 					<PropertyList>
-						<Property Name="3DSpatialization" Type="int16" Value="2"/>
+						<Property Name="3DSpatialization" Type="int16" Value="1"/>
 					</PropertyList>
 					<ReferenceList>
 						<Reference Name="Attenuation">
@@ -952,7 +952,7 @@
 				</SwitchContainer>
 				<SwitchContainer Name="PC_Wpn_Automatic" ID="{85EE0CA9-F14D-41E8-8E39-279A2D872A33}" ShortID="165226382">
 					<PropertyList>
-						<Property Name="3DSpatialization" Type="int16" Value="2"/>
+						<Property Name="3DSpatialization" Type="int16" Value="1"/>
 					</PropertyList>
 					<ReferenceList>
 						<Reference Name="Attenuation">
@@ -1453,7 +1453,7 @@
 				</SwitchContainer>
 				<SwitchContainer Name="PC_Wpn_Large" ID="{6DFA3449-182F-41A7-A596-D69D27AA0017}" ShortID="1015887880">
 					<PropertyList>
-						<Property Name="3DSpatialization" Type="int16" Value="2"/>
+						<Property Name="3DSpatialization" Type="int16" Value="1"/>
 					</PropertyList>
 					<ReferenceList>
 						<Reference Name="Attenuation">
@@ -1799,7 +1799,7 @@
 				</SwitchContainer>
 				<SwitchContainer Name="PC_Wpn_Main" ID="{DF9864BD-8C5F-403A-831C-FF1161236506}" ShortID="708061681">
 					<PropertyList>
-						<Property Name="3DSpatialization" Type="int16" Value="2"/>
+						<Property Name="3DSpatialization" Type="int16" Value="1"/>
 					</PropertyList>
 					<ReferenceList>
 						<Reference Name="Attenuation">
@@ -2151,7 +2151,7 @@
 				</SwitchContainer>
 				<SwitchContainer Name="PC_Wpn_Medium" ID="{FD09B8F6-05FD-4E96-92A7-C5E34FF77A10}" ShortID="110401909">
 					<PropertyList>
-						<Property Name="3DSpatialization" Type="int16" Value="2"/>
+						<Property Name="3DSpatialization" Type="int16" Value="1"/>
 					</PropertyList>
 					<ReferenceList>
 						<Reference Name="Attenuation">
@@ -2174,11 +2174,6 @@
 						<RandomSequenceContainer Name="Wpn_Medium" ID="{5FD52E6E-894C-4CE9-B953-B1A53B6F1689}" ShortID="714242165">
 							<PropertyList>
 								<Property Name="3DSpatialization" Type="int16" Value="2"/>
-								<Property Name="Volume" Type="Real64">
-									<ValueList>
-										<Value>-4</Value>
-									</ValueList>
-								</Property>
 							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Attenuation">
@@ -2378,11 +2373,6 @@
 						<Sound Name="kk91_wpn_old_Medium_3rdView_1" ID="{032E8ED9-F38D-484D-8689-2F32653DF84F}" ShortID="564078481">
 							<PropertyList>
 								<Property Name="3DSpatialization" Type="int16" Value="2"/>
-								<Property Name="Volume" Type="Real64">
-									<ValueList>
-										<Value>-5</Value>
-									</ValueList>
-								</Property>
 							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Attenuation">
@@ -2502,7 +2492,7 @@
 				</SwitchContainer>
 				<SwitchContainer Name="PC_Wpn_Small" ID="{4CA2BC63-BC7E-488F-8E61-99BC7021B7C0}" ShortID="833225952">
 					<PropertyList>
-						<Property Name="3DSpatialization" Type="int16" Value="2"/>
+						<Property Name="3DSpatialization" Type="int16" Value="1"/>
 					</PropertyList>
 					<ReferenceList>
 						<Reference Name="Attenuation">

@@ -5,7 +5,7 @@ In case anyone wants to create its own version, or update it to newer versions i
 
 Installation:
 
-Drop the audioww folder inside the res_mods/<latest game version>/
+Drop the audioww folder inside the res_mods/"latest game version"/
 
 The latest game version will be the latest folder, if sorted by name, where there is a readme.txt. This is important, because some other mods, like tomato.gg, will create more folders for predictible future versions so it can update itself.
 Another consideration is that the latest game version may not match the one specified in the mod, but if I have not updated it, it probably still works.
